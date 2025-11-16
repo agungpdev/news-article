@@ -1,0 +1,4 @@
+echo "🔍 Running commitlint check..."
+npx --no -- commitlint --edit "$1"
+echo "Completed commitlint check..."
+
