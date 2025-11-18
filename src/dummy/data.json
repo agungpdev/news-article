@@ -1,0 +1,162 @@
+{
+  "feature": [
+    {
+      "id": 1,
+      "title": "Economic policies are shaping international markets",
+      "category": "world news",
+      "categoryUrl": "/world-news",
+      "postUrl": "#",
+      "imagePath": "/uploads/world-news/2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The latest trends in AI and innovation",
+      "category": "technology",
+      "categoryUrl": "/technology",
+      "postUrl": "#",
+      "imagePath": "/uploads/technology/3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Analyzing the effects of global health policies",
+      "category": "health",
+      "categoryUrl": "/health",
+      "postUrl": "#",
+      "imagePath": "/uploads/health/1.png"
+    },
+    {
+      "id": 4,
+      "title": "Affect the integrity and future of professional sports",
+      "category": "sports",
+      "categoryUrl": "/sports",
+      "postUrl": "#",
+      "imagePath": "/uploads/sports/4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "A deep dive into the influence of cultural movements on contemporary society",
+      "category": "culture",
+      "categoryUrl": "/culture",
+      "postUrl": "#",
+      "imagePath": "/uploads/culture/5.png"
+    }
+  ],
+  "latest": [
+    {
+      "id": 1,
+      "title": "Riding the tide of innovation and inspiration",
+      "category": "busniess",
+      "categoryUrl": "/business",
+      "postUrl": "#",
+      "imagePath": "/uploads/business/4.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The effects of geopolitical shifts on global security",
+      "category": "world news",
+      "categoryUrl": "/world-news",
+      "postUrl": "#",
+      "imagePath": "/uploads/world-news/3.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Affect the integrity and future of professional sports",
+      "category": "sports",
+      "categoryUrl": "/sports",
+      "postUrl": "#",
+      "imagePath": "/uploads/sports/1.png"
+    },
+    {
+      "id": 4,
+      "title": "Strategies for success in a competitive landscape",
+      "category": "busniess",
+      "categoryUrl": "/business",
+      "postUrl": "#",
+      "imagePath": "/uploads/business/5.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Innovation hubs are transforming traditional business models",
+      "category": "busniess",
+      "categoryUrl": "/business",
+      "postUrl": "#",
+      "imagePath": "/uploads/business/2.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Tailoring treatments to individual genetic profiles",
+      "category": "health",
+      "categoryUrl": "/health",
+      "postUrl": "#",
+      "imagePath": "/uploads/health/1.png"
+    }
+  ],
+  "world": [
+    {
+      "id": 1,
+      "title": "Understanding the social movements reshaping our world today",
+      "category": "world news",
+      "categoryUrl": "/world-news",
+      "postUrl": "#",
+      "imagePath": "/uploads/world-news/4.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The global financial landscape and its implications for all",
+      "category": "world news",
+      "categoryUrl": "/world-news",
+      "postUrl": "#",
+      "imagePath": "/uploads/world-news/1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Examining the challenges and responses of nations",
+      "category": "world news",
+      "categoryUrl": "/world-news",
+      "postUrl": "#",
+      "imagePath": "/uploads/world-news/2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "A comprehensive analysis of the state of global affairs",
+      "category": "world news",
+      "categoryUrl": "/world-news",
+      "postUrl": "#",
+      "imagePath": "/uploads/world-news/3.jpg"
+    }
+  ],
+  "technology": [
+    {
+      "id": 1,
+      "title": "Latest Innovations Pave the Way to a Sustainable Future",
+      "category": "technology",
+      "categoryUrl": "/technology",
+      "postUrl": "#",
+      "imagePath": "/uploads/technology/6.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Understanding the role of big data in driving technological",
+      "category": "technology",
+      "categoryUrl": "/technology",
+      "postUrl": "#",
+      "imagePath": "/uploads/technology/1.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Exploring the latest developments in AI, Robotics",
+      "category": "technology",
+      "categoryUrl": "/technology",
+      "postUrl": "#",
+      "imagePath": "/uploads/technology/2.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Future of computing and what it means for society",
+      "category": "technology",
+      "categoryUrl": "/technology",
+      "postUrl": "#",
+      "imagePath": "/uploads/technology/4.jpg"
+    }
+  ]
+}
