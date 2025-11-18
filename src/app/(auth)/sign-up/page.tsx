@@ -1,13 +1,13 @@
-import { LoginForm } from './_component/login-form';
+import { SignupForm } from './_component/signup-form';
 
-const SignInPage = () => {
+const SignUpPage = () => {
   return (
     <div className="bg-muted flex min-h-svh flex-col items-center justify-center p-6 md:p-10">
       <div className="w-full max-w-sm md:max-w-4xl">
-        <LoginForm />
+        <SignupForm />
       </div>
     </div>
   );
 };
 
-export default SignInPage;
+export default SignUpPage;

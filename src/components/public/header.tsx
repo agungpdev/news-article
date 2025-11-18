@@ -3,6 +3,7 @@ import {
   RightOutlined,
   SearchOutlined,
 } from '@ant-design/icons';
+import { Lock } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 
@@ -27,7 +28,7 @@ const HomeHeader = () => {
   });
   const localeDate = dateFormatter.format(date);
   return (
-    <header>
+    <header className="container mx-auto p-4 text-primary">
       <section className="border-t-[1px] border-b-[1px] py-2">
         <div className="flex items-center justify-between">
           <div>
@@ -35,6 +36,9 @@ const HomeHeader = () => {
             <span className="ml-2 text-sm">{localeDate}</span>
           </div>
           <div className="flex items-center gap-6">
+            <Link href="sign-in">
+              <Lock size={16} />
+            </Link>
             <span className="text-sm">The menu</span>
             <RightOutlined />
             <SearchOutlined />

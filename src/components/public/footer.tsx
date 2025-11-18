@@ -9,7 +9,7 @@ import React from 'react';
 
 const Footer = () => {
   return (
-    <section>
+    <footer className="container mx-auto p-4 text-primary">
       <div className="border-t-4 py-5">
         <Image
           src="/brand/brand.svg"
@@ -32,7 +32,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-    </section>
+    </footer>
   );
 };
 
